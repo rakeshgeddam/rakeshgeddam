@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakeshgeddam
-- 👀 I’m interested in Data Engineering Projects  
-- 🌱 I’m currently learning Algorithms and Problem-Solving techniques 
+- 👀 I’m interested in GraphQL powered AI applications and Data Engineering Projects
+- 🌱 I’m currently learning AI optimisations and Workflow managementing 
 - 💞️ I’m looking to collaborate on any Data Engineering/Machine Learning Projects
 - 📫 How to reach me mail me@ rakeshgeddam@aol.com
 - 😄 Pronouns: He/him
