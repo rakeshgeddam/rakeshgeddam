@@ -17,7 +17,7 @@
 
 ## About me
 
-- 7+ years of experience across data engineering, large-scale ETL, cloud platforms, automation, and AI-enabled product development.
+- 4+ years of experience across data engineering, large-scale ETL, cloud platforms, automation, and AI-enabled product development.
 - Built systems on Google Cloud, Snowflake, Databricks, Hadoop, Spark, PostgreSQL, and modern Python / TypeScript stacks.
 - Interested in roles spanning data engineering, AI platform engineering, workflow automation, and full-stack product development.
 - Based in Michigan, United States.
@@ -64,22 +64,6 @@ Cloud: Google Cloud, Cloud Run, Cloud SQL, Functions, Azure
 AI / ML: LLM workflows, agentic systems, prompt orchestration, hybrid ML integrations
 Web / App: Node.js, Express, React, Prisma, iOS / Swift
 ```
-
-## What recruiters will find here
-
-- Repositories that reflect applied engineering work, not only tutorial code.
-- Projects across data systems, AI workflows, automation, and product engineering.
-- Clean documentation, practical architecture, and evidence of shipping software.
-
-## Recommended pinned repositories
-
-Pin 4 to 6 repositories that support the story you want your profile to tell:
-
-1. Your strongest production app or deployed product.
-2. One strong ETL or data platform project.
-3. One AI / agent workflow project.
-4. One full-stack application with strong documentation.
-5. One collaboration or open-source contribution if available.
 
 ## Contact
 
