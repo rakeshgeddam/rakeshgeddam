@@ -1,78 +1,48 @@
-<h1 align="center">Hi, I'm Rakesh Geddam</h1>
-<p align="center">
-  Senior Data Engineer · AI / LLM Workflow Engineer · Full-Stack Builder
-</p>
+# Rakesh Geddam — Data & Cloud AI Engineer
 
-<p align="center">
-  I build production-grade data platforms, agentic AI systems, and user-facing products that turn complex workflows into reliable software.
-</p>
+I design and scale production-grade data infrastructure and build autonomous, secure AI reasoning systems for real-world enterprise workflows. My work sits at the intersection of cloud data engineering, agentic AI architecture, and developer productivity—turning complex pipelines, tools, and decision flows into reliable software.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rakeshgeddam/">LinkedIn</a> - 
-  <a href="mailto:rakeshgeddam2025@gmail.com">Email</a> - 
-  <a href="https://github.com/rakeshgeddam?tab=repositories">Repositories</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/rakeshgeddam/) · [Email](mailto:rakeshgeddam2025@gmail.com) · [Portfolio](https://github.com/rakeshgeddam)
 
-***
+---
 
-## About me
+## Featured Projects
 
-- 4+ years of experience across data engineering, large-scale ETL, cloud platforms, automation, and AI-enabled product development.
-- Built systems on Google Cloud, Snowflake, Databricks, Hadoop, Spark, PostgreSQL, and modern Python / TypeScript stacks.
-- Interested in roles spanning data engineering, AI platform engineering, workflow automation, and full-stack product development.
-- Based in Michigan, United States.
+### Enterprise Data-to-Agent Connector Gateway
+**Tech Stack:** FastAPI, Cloud Run, SPIFFE, DLP, Kafka, MCP, Terraform
 
-## What I’m working on
+- Designed a zero-trust connector gateway for agent-driven enterprise data access using workload identity patterns, strong service boundaries, and secure machine-to-machine authentication.
+- Implemented regex-based PII masking and serverless container optimization to support secure, low-latency processing across scalable event and API workloads.
 
-- Building and refining agentic AI workflows and automation systems.
-- Exploring production use cases for LLMs, orchestration, and developer tooling.
-- Shipping products that connect strong backend systems with clean user experience.
+### Agent-Native Data Platform
+**Tech Stack:** GCP, BigQuery, dbt, Vertex AI, LangFuse, MCP
 
-## Featured work
+- Built an agent-oriented analytics architecture that translates natural language requests into dbt-medallion SQL workflows, improving accessibility to governed analytical systems.
+- Used Model Context Protocol (MCP) for tool routing and orchestration, enabling controlled invocation across data, reasoning, and observability layers.
 
-### DigiBlinker
-An iOS productivity app designed to reduce distraction by connecting calendar context with smart notifications and AI-assisted workflows.
+### Retrieval-Augmented Smart Code Editor
+**Tech Stack:** Python, Qdrant, Embeddings
 
-**Highlights**
-- Built and shipped a live App Store product.
-- Used Swift, agentic AI patterns, Google Cloud Run, and hybrid ML / LLM workflows.
-- Focused on real-world reliability, cloud deployment, and end-user impact.
+- Developed a retrieval-augmented coding workflow that uses semantic similarity over embeddings to match runtime and error-log patterns more effectively than legacy keyword search.
+- Improved debugging relevance and developer feedback loops by prioritizing context-aware retrieval for issue investigation and resolution support.
 
-### Data engineering and platform work
-Projects and experience across large-scale ETL, distributed processing, data migration, orchestration, and warehouse optimization.
+---
 
-**Representative themes**
-- Spark and Hadoop-based processing at scale.
-- Snowflake and Databricks-based analytics workflows.
-- SQL-heavy transformation, optimization, and automation.
-- Cloud-native deployment and pipeline reliability.
+## Technical Ecosystem
 
-### AI and workflow automation
-Systems that combine LLMs, orchestration, browser automation, and product logic to automate complex workflows.
+**Languages & Scripting**  
+Python · SQL · JavaScript · TypeScript · Swift
 
-**Representative themes**
-- Multi-step AI workflows and agent systems.
-- Job search and process automation.
-- Backend integrations, APIs, and structured data pipelines.
+**Cloud, Infrastructure & DevOps**  
+Google Cloud Platform (GCP) · Cloud Run · BigQuery · GKE · Terraform · Serverless Architecture · Containerized Services · CI/CD
 
-## Tech stack
+**Data Engineering & AI/ML**  
+dbt · PySpark · Production Data Pipelines · MCP (Model Context Protocol) · Qdrant · Vector Databases · TensorFlow · Agentic AI Systems · Retrieval-Augmented Architectures
 
-```text
-Languages: Python, SQL, JavaScript, TypeScript, Swift, Java
-Data: Spark, Hadoop, Snowflake, Databricks, Teradata, PostgreSQL
-Cloud: Google Cloud, Cloud Run, Cloud SQL, Functions, Azure
-AI / ML: LLM workflows, agentic systems, prompt orchestration, hybrid ML integrations
-Web / App: Node.js, Express, React, Prisma, iOS / Swift
-```
+---
 
-## Contact
+## Current Focus & Contributions
 
-- LinkedIn: <a href="https://www.linkedin.com/in/rakeshgeddam/">linkedin.com/in/rakeshgeddam</a>
-- Email: <a href="mailto:rakeshgeddam2025@gmail.com">rakeshgeddam2025@gmail.com</a>
-
-<!--
-Profile README notes:
-- Keep pinned repositories aligned with your target role.
-- Add short demo GIFs or screenshots only if they stay clean and fast to load.
-- Avoid too many badges or noisy widgets.
--->
+- Building agentic workflow systems that combine secure tool orchestration, structured reasoning, and production observability.
+- Developing custom MCP servers and integration layers to support governed, extensible AI tool ecosystems.
+- Exploring multi-modal application performance tracing for AI-enabled products, data platforms, and developer tooling.
