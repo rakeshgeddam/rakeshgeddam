@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakeshgeddam/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/rakeshge/">LinkedIn</a> ·
   <a href="mailto:rakeshgeddam2025@gmail.com">Email</a> ·
   <a href="https://github.com/rakeshgeddam">Portfolio</a>
 </p>
