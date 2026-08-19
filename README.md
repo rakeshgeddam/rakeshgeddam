@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rakeshge/">LinkedIn</a> ·
   <a href="mailto:rakeshgeddam2025@gmail.com">Email</a> ·
-  <a href="https://github.com/rakeshgeddam">Portfolio</a>
+  <a href="https://portfolio-mauve-five-64.vercel.app">Portfolio</a>
 </p>
 
 ---
