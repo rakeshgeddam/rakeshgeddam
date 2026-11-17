@@ -1,71 +1,37 @@
-<h1 align="center">Rakesh Geddam — Data & Cloud AI Engineer</h1>
+<h1 align="center">Rakesh Geddam</h1>
+<p align="center"><strong>Software Engineer · Data Platforms · Cloud & AI</strong></p>
 
 <p align="center">
-  I scale production data infrastructure and build autonomous, secure AI reasoning systems for enterprise-grade workflows. I specialize in cloud-native data platforms, agentic software architectures, and developer tooling that improves reliability, speed, and operational clarity.
+  I build data pipelines, cloud automation, and AI-enabled developer tools. My projects span data engineering, application development, and practical AI systems.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rakeshge/">LinkedIn</a> ·
   <a href="mailto:rakeshgeddam2025@gmail.com">Email</a> ·
-  <a href="https://portfolio-mauve-five-64.vercel.app">Portfolio</a>
+  <a href="https://rakeshgeddam.vercel.app">Portfolio</a>
 </p>
 
----
+## Featured projects
 
-## Selected Impact
+| Project | What it demonstrates |
+|---|---|
+| [Azure Operations Runner](https://github.com/rakeshgeddam/az-ops-runner) | Runs JSON-defined Azure CLI operations with dry-run support and structured, per-operation logs and reports. |
+| [Healthcare Eligibility Pipeline](https://github.com/rakeshgeddam/Healthcare_partner_member_eligibility) | Configuration-driven Databricks/PySpark ingestion, validation, and standardization of partner eligibility files using Bronze/Silver/Gold layers. |
+| [Real-Time Logistics Assistant](https://github.com/rakeshgeddam/Logistics_Assistant) | Demonstrates Kafka ingestion, Spark Structured Streaming, and Airflow orchestration for traffic-aware event logistics. |
+| [Focus Guardian Website](https://github.com/rakeshgeddam/FCS_GRDN_WEBSITE) | React and TypeScript marketing site for an iOS productivity app, with product, privacy, and terms pages. |
+| [Portfolio](https://github.com/rakeshgeddam/portfolio) | Portfolio site with selected projects, experience, and contact information. |
 
-- Architecting **agentic AI systems** with secure tool orchestration, retrieval pipelines, and governed reasoning workflows.
-- Building **production data platforms** across analytics engineering, serverless execution, and cloud-scale transformation pipelines.
-- Designing **developer productivity systems** that reduce operational friction through automation, observability, and context-aware tooling.
+## Skills
 
-## Featured Projects
+**Languages:** Python · SQL · TypeScript · JavaScript · Swift  
+**Data:** Apache Spark · PySpark · Kafka · Airflow · Databricks  
+**Cloud & tools:** Azure · AWS · GCP · Docker · Git · CI/CD  
+**AI:** LLM integrations · Retrieval-augmented applications · Vector search
 
-### Enterprise Data-to-Agent Connector Gateway
-**Tech Stack:** FastAPI, Cloud Run, SPIFFE, DLP, Kafka, MCP, Terraform
+## Background
 
-- Built a zero-trust gateway architecture for connecting enterprise data systems to agent workflows using workload identity, strong service boundaries, and machine-authenticated communication.
-- Implemented regex-based PII masking and serverless container optimization to support secure, scalable, and low-latency request handling in production-oriented environments.
+- M.S. in Computer Science & Information Systems, University of Michigan–Flint
+- Experience across software engineering, data engineering, and AI-focused projects
+- Published in ASME IMECE 2024
 
-### Agent-Native Data Platform
-**Tech Stack:** GCP, BigQuery, dbt, Vertex AI, LangFuse, MCP
-
-- Designed an agent-native analytics platform that translates natural language requests into dbt medallion-style SQL workflows for governed analytical access.
-- Used Model Context Protocol (MCP) for structured tool routing across reasoning, warehouse, and observability layers to improve control and extensibility.
-
-### Retrieval-Augmented Smart Code Editor
-**Tech Stack:** Python, Qdrant, Embeddings
-
-- Developed a retrieval-augmented coding assistant that uses semantic vector search for error-log and code-context matching instead of brittle legacy keyword lookups.
-- Improved debugging relevance and triage efficiency by surfacing context-aware results aligned to actual failure patterns and developer intent.
-
----
-
-## Technical Ecosystem
-
-**Languages & Scripting**  
-Python · SQL · JavaScript · TypeScript · Swift
-
-**Cloud, Infrastructure & DevOps**  
-GCP · Cloud Run · BigQuery · GKE · Terraform · Serverless Infrastructure · Containers · CI/CD
-
-**Data Engineering & AI/ML**  
-dbt · PySpark · Production Data Pipelines · MCP (Model Context Protocol) · Qdrant · Vector Databases · TensorFlow · Agentic AI Systems · Retrieval-Augmented Architectures
-
----
-
-## What I'm Working On
-
-- Advancing **agentic workflow systems** that combine secure orchestration, structured reasoning, and production observability.
-- Developing **custom MCP servers** and integration layers for extensible, governed AI tool ecosystems.
-- Exploring **multi-modal application performance tracing** across AI-enabled products, backend services, and developer platforms.
-
----
-
-## Role Alignment
-
-I am especially interested in opportunities spanning:
-
-- **Data Engineering**
-- **Cloud AI Engineering**
-- **AI Platform / Agent Infrastructure**
-- **Developer Productivity & Internal Tooling**
+More details and additional work are available on my [portfolio](https://rakeshgeddam.vercel.app) and in my [repositories](https://github.com/rakeshgeddam?tab=repositories).
